@@ -20,3 +20,6 @@ three layeer stages
 
 working   staging    commit
 
+if no change then we check what's changed 
+git diff filename
+
