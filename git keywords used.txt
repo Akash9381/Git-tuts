@@ -14,3 +14,9 @@ to set user name
  git config --global user.name "Akash Kumar"
 
 git commit -m "version 1"
+
+
+three layeer stages
+
+working   staging    commit
+
