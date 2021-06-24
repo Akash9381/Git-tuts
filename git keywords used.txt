@@ -1,2 +1,16 @@
 git status
 git --version
+
+git add .a -all file are moved in staging area
+
+git commit -m "version 1"   (for commit the files)
+
+git log   (to find what chnged by employee's)
+
+to set email
+ git config --global user.email "aksharma@gmail.com"
+
+to set user name
+ git config --global user.name "Akash Kumar"
+
+git commit -m "version 1"
