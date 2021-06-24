@@ -23,3 +23,13 @@ working   staging    commit
 if no change then we check what's changed 
 git diff filename
 
+check after add to file changed
+git diff --staged filename
+
+(to show what types of changed)
+
+
+for unstage used this keys
+git reset filename
+
+
